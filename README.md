@@ -1,6 +1,6 @@
 # Marketing Campaign KPI Tracking
 
-This dashboard is designed to track campaign performance across Facebook, Google, and TikTok over January 2026.
+This dashboard is designed to track advertisement campaign performance for one company across Facebook, Google, and TikTok over January 2026.
 
 ## Methodology
 
