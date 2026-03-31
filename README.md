@@ -17,7 +17,7 @@ The dashboard is intended to:
 Advertising exports from Facebook, Google, and TikTok were standardized into a unified schema with shared campaign KPIs and platform-specific metrics. The resulting dataset was then visualized in Power BI to support cross-platform performance analysis.
 
 ## Dashboard
-![Main Dashboard](screenshots/Screenshot 2026-03-31 024024.png)
+![Main Dashboard](screenshots/main-dashboard.png)
 
 ## Dashboard layout
 - **Left panel:** interactive filters for date, platform, and campaign selection
