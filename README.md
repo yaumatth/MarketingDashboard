@@ -9,7 +9,7 @@ This dashboard is designed to track campaign performance across Facebook, Google
 - Power BI
 
 ### Data preparation
-Advertising exports from Facebook, Google, and TikTok were standardized into a unified schema with shared campaign KPIs and platform-specific metrics. The resulting dataset was then visualized in Power BI to support cross-platform performance analysis.
+Advertising exports from Facebook, Google, and TikTok were standardized into a unified schema with shared campaign KPIs and platform-specific metrics with Snowflake SQL. The resulting dataset was then visualized in Power BI to support cross-platform performance analysis.
 
 ## Dashboard
 
