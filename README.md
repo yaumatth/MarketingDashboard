@@ -1,6 +1,11 @@
 # Marketing Campaign KPI Tracking
 
-This dashboard is designed to track campaign performance across Facebook, Google, and TikTok over January 2026. It supports both high-level monitoring and campaign-level analysis by summarizing total spend and outcomes, comparing platform and campaign performance, and highlighting cost-efficiency metrics to inform budget allocation decisions.
+This dashboard is designed to track campaign performance across Facebook, Google, and TikTok over January 2026.
+
+The dashboard is intended to:
+1. support high-level monitoring by summarizing total spend and campaign outcomes
+2. enable deeper analysis of platform- and campaign-level performance
+3. highlight cost-efficiency metrics to inform future budget allocation decisions
 
 ## Methodology
 
@@ -10,7 +15,6 @@ This dashboard is designed to track campaign performance across Facebook, Google
 
 ### Data preparation
 Advertising exports from Facebook, Google, and TikTok were standardized into a unified schema with shared campaign KPIs and platform-specific metrics. The resulting dataset was then visualized in Power BI to support cross-platform performance analysis.
-
 
 ## Dashboard
 ![Main Dashboard](screenshots/Screenshot 2026-03-31 024024.png)
