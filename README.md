@@ -19,7 +19,3 @@ The dashboard is intended to:
 3. highlight cost-efficiency metrics to inform future budget allocation decisions
 
 ![Main Dashboard](screenshots/main-dashboard.png)
-
-## Dashboard layout
-- **Left panel:** interactive filters for date, platform, and campaign selection
-- **Main panel:** high-level KPI summaries, platform/campaign comparisons, funnel metrics, and cost-efficiency analysis
